@@ -3,11 +3,11 @@ bookmarklet to switch from a youtube video to piped.kavin.rocks
 
 based off this stackoverflow answer: https://stackoverflow.com/a/2689581
 
-# install
+## install
 create a new bookmark and change url to the js code
 
-# usage
+## usage
 works with the main homepage, videos, playlists, etc
 
-# why i made this?
+## why i made this?
 youtube has not been loading for me properly but this piped url has worked just fine no issues
