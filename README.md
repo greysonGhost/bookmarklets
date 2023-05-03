@@ -6,6 +6,8 @@ based off this stackoverflow answer: https://stackoverflow.com/a/2689581
 ## install
 create a new bookmark and change url to the js code
 
+[Drag to bookmarks bar](<javascript:(function(){window.location=window.location.toString().replace(/^https:\/\/www.youtube.com/,'https://piped.kavin.rocks');})()>)
+
 ## usage
 click on bookmark when on youtube to be redirected to piped.
 
