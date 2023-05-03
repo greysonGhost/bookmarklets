@@ -6,6 +6,8 @@ based off this stackoverflow answer: https://stackoverflow.com/a/2689581
 ## install
 create a new bookmark and change url to the js code
 
+or go [here](https://sharkcat.neocities.org/projects/youtube-to-piped) for a draggable version
+
 ## usage
 click on bookmark when on youtube to be redirected to piped.
 
