@@ -11,3 +11,9 @@ switch from a youtube video to piped.kavin.rocks
 
 ### web-archive.js
 go to the web.archive page for the current url
+
+## sci-hub.js
+go to scihub page for the current url
+
+## user-tumblr.js
+switch from tumblr.com/user to user.tumblr.com
