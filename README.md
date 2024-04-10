@@ -20,10 +20,8 @@ e.g. https://www.jstor.org/stable/20447412 -> https://sci-hub.se/https://www.jst
 
 ### user-tumblr.js
 Switch from tumblr.com/user to user.tumblr.com  
-// does not work if url has dashes in it  
 e.g. https://www.tumblr.com/fuckyeahgoodomens -> https://fuckyeahgoodomens.tumblr.com/
 
 ### github.js
 Switch from github.io page to repository  
-// does not work if url has dashes in it  
 e.g. https://justatrivialbot.github.io/hermitpicker9000/ -> https://github.com/justatrivialbot/hermitpicker9000
